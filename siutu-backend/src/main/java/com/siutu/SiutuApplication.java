@@ -1,0 +1,13 @@
+package com.siutu;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SiutuApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SiutuApplication.class, args);
+	}
+
+}
